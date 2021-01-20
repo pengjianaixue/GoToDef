@@ -30,9 +30,6 @@ namespace GoToDef
         }
     }
 
-    //[Import(typeof(IVsEditorAdaptersFactoryService))]
-    //internal IVsEditorAdaptersFactoryService editorFactory;
-
     /// <summary>
     /// The state of the control key for a given view, which is kept up-to-date by a combination of the
     /// key processor and the mouse process
